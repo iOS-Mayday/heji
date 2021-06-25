@@ -111,13 +111,7 @@
 
 **点击-直接加入：**
 
-**[技术交流1群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)**
-
-**[技术交流2群](https://jq.qq.com/?_wv=1027&k=pRi4RmDi)**
-
-**1群将满 可以先申请2群**
-
-
+**[iOS技术三千人群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)**
 
 # 第三步-精选书籍资料
 ![](https://upload-images.jianshu.io/upload_images/22877992-501ea166a1f8ad83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -131,14 +125,9 @@
 **点击添加咱们的技术交流圈  管理处免费领取全套iOS资料**
 
 **点击-直接加入：**
-
-**[技术交流1群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)**
-
-**[技术交流2群](https://jq.qq.com/?_wv=1027&k=pRi4RmDi)**
-
-**1群将满 可以先申请2群**
+**[iOS技术三千人群](https://jq.qq.com/?_wv=1027&k=mxRiktJ0)**
 
 ******
 翻到底了，我也是有底线的 
-暂时整理了这些iOS的技术资料；后期收集到更好的，会在文章底部持续更新，可以收藏一下文章呀 ~ ~ ~
+暂时整理了这些iOS的技术资料；后期收集到更好的，会在文章底部持续更新，可以点一下小星星呀 ~ ~ ~
 ******
